@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94b74182-69af-4a7e-82cf-399319d881c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonMLTextbook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/AdalineGradientDescent/AdalineGD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/AdalineGradientDescent/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/AdalineStochasticGradientDescent/AdalineSGD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/AdalineStochasticGradientDescent/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Perceptron/Perceptron.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Perceptron/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000001467344217" />
+      <entry key="S10" value="1.001011687582656" />
+      <entry key="S30" value="1.4315124829128898" />
+      <entry key="S60" value="3.2280643690553856" />
+      <entry key="M2" value="6.614275640774655" />
+      <entry key="M5" value="13.137923983904122" />
+      <entry key="M10" value="22.873469202119693" />
+      <entry key="M15" value="35.0349815939715" />
+      <entry key="M30" value="80.65025638725888" />
+      <entry key="H1" value="157.8083820051445" />
+      <entry key="H2" value="237.05486499177283" />
+      <entry key="H4" value="295.4312386510509" />
+      <entry key="D1" value="357.73690982471135" />
+      <entry key="W1" value="369.92204889013647" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="1.3891909884429288E-193" />
+      <entry key="S10" value="5.121276215008328E-97" />
+      <entry key="S30" value="1.2657785112136392E-32" />
+      <entry key="S60" value="1.6613251431725047E-16" />
+      <entry key="M2" value="2.176254919546153E-8" />
+      <entry key="M5" value="0.0022640080435223056" />
+      <entry key="M10" value="0.13610450591357384" />
+      <entry key="M15" value="0.593503964811729" />
+      <entry key="M30" value="3.017115813878" />
+      <entry key="H1" value="7.470435213330596" />
+      <entry key="H2" value="12.100458773495232" />
+      <entry key="H4" value="15.517338386949458" />
+      <entry key="D1" value="19.165016950264143" />
+      <entry key="W1" value="19.878355793581218" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.09875516398292214" />
+      <entry key="MS500" value="0.6293785867524289" />
+      <entry key="S2" value="0.8906929006066809" />
+      <entry key="S5" value="0.9547534986344269" />
+      <entry key="S10" value="0.9780955742742925" />
+      <entry key="S30" value="1.419695245627889" />
+      <entry key="S60" value="3.213628215583472" />
+      <entry key="M2" value="6.598989472517767" />
+      <entry key="M5" value="13.126958448174989" />
+      <entry key="M10" value="22.995905012299417" />
+      <entry key="M15" value="35.61234435078159" />
+      <entry key="M30" value="83.64333060283127" />
+      <entry key="H1" value="165.2514992897835" />
+      <entry key="H2" value="249.13337067008666" />
+      <entry key="H4" value="310.93447066584827" />
+      <entry key="D1" value="376.8990111536089" />
+      <entry key="W1" value="389.7999722848782" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FQDhnuAbnbL9kRjvgzqMRRoFxe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;PyPlotsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonMLTextbook" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2/Perceptron" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter2/Perceptron/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.24374.152" />
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94b74182-69af-4a7e-82cf-399319d881c5" name="Changes" comment="" />
+      <created>1781998520614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781998520614</updated>
+      <workItem from="1781998521680" duration="6356000" />
+      <workItem from="1782112265201" duration="4851000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonMLTextbook$main.coverage" NAME="main Coverage Results" MODIFIED="1782115962014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/AdalineStochasticGradientDescent" />
+  </component>
+</project>
